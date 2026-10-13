@@ -1,0 +1,8 @@
+name=Didaktiko
+version=0.1.0
+author=Didaktiko Inventor
+maintainer=Didaktiko Inventor
+sentence=Libreria educativa para controlar robots Didaktiko Inventor.
+paragraph=Control sencillo de motores y futuras funciones para Bluetooth, luces, sonido y sensores.
+category=Device Control
+architectures=*
